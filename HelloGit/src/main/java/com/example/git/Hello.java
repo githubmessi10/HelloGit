@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("master添加的更新1");
         System.out.println("hello git!新建了分支dev，进行更新1");
         System.out.println("在线编辑。");
+        System.out.println("master分支，更新Hello.java...");
     }
 }
