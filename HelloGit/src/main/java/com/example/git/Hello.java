@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello git！更新了master分支");
         System.out.println("hello git!");
         System.out.println("hello git!新建了分支dev");
+        System.out.println("master添加的更新1");
     }
 }
